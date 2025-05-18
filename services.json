@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Downtown Community Health Centre",
+    "category": "clinics",
+    "address": "44 Francis St S, Kitchener, ON",
+    "lat": 43.4488,
+    "lon": -80.4912,
+    "description": "Primary care and mental health support",
+    "daily_hours": {
+      "Mon": "09:00-17:00",
+      "Tue": "09:00-17:00",
+      "Wed": "09:00-17:00",
+      "Thu": "09:00-17:00",
+      "Fri": "09:00-17:00"
+    }
+  }
+]
